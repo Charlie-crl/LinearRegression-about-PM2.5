@@ -1,5 +1,5 @@
 # LinearRegression-about-PM2.5
-大数据分析作业，关于PM2.5的线性回归预测
+大数据分析课程作业，关于PM2.5的线性回归预测
 
 ### Description
 
